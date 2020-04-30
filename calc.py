@@ -7,6 +7,6 @@ print('入力された数は', a, b)
 # 足し算
 print('和は', a+b)
 # 引き算
-print('差は', a-b)
+print('差は', abs(a-b))
 # 掛け算
 print('積は', a*b)
