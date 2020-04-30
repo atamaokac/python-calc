@@ -4,3 +4,5 @@ A, B = input().split()
 a = int(A)
 b = int(B)
 print('入力された数は', a, b)
+# 足し算
+print('和は', a+b)
